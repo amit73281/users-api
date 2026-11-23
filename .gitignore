@@ -1,2 +1,9 @@
 node_modules/
 .env
+
+# Local test files
+sita.txt
+admin.txt
+register.json
+admin-login.json
+sita-login.json
